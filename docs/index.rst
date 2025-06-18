@@ -1,4 +1,4 @@
-How to Log IN to Dashlane: A Step by Step Guide 
+How to Log IN Dashlane Account : A Step by Step Guide 
 ============================================
 
 .. toctree::
