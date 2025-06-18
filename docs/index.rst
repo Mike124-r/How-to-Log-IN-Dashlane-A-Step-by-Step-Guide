@@ -9,10 +9,15 @@ How to Log IN to Dashlane: A Step by Step Guide
 
 
 
-For Log IN, go to 👉 https://dashlaneaccount.com
--------
+.. image:: click-login.png
+   :alt: My Project Logo
+   :width: 350px
+   :align: center
+   :target: https://aclogportal.com/
 
 
+
+.
 
 
 Managing a lot of passwords might be hard in today's digital environment. Dashlane is one of the most trustworthy password managers, and this is where it comes in. It lets people store, organize, and autofill passwords on all of their devices from one safe place. The first thing you need to do to use its strong features is log in to your Dashlane account.
