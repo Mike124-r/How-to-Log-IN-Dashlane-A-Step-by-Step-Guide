@@ -1,4 +1,4 @@
-author = 'How-to-Log-IN-to-Dashlane-A-Step-by-Step-Guide'
+author = 'Dashlane'
 release = '1.0'
 
 extensions = []
